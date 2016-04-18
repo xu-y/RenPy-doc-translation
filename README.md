@@ -11,3 +11,11 @@ A Simplified Chinese version of Ren'py 6.99.10 documentation. There will be upda
 Hope that more Celestial Empire people will use Ren'py with this documentation because it' really COOOOOL!
 This project may be suspended sometimes because as a graduating student (perhaps staff in a company later) I'm busy.
 But I will hold on. :-)
+
+记录（于2016年4月18日）：
+观测到有其他用户在做类似的内容，好高兴~ 所以希望补充他们的内容。比如@fk1995的https://github.com/fk1995/RenPy-Documentation-translations.git 基于6.17版本(观测于2016年4月18日)的文档翻译就是个很好的项目。
+目前还是GitHub的初学者，正在研究怎样跟着他们做。
+
+Logs(Apr.18 2016):
+I'm happy to find that some users are doing the same thing. So I hope to continue there unfinished work. As an example, https://github.com/fk1995/RenPy-Documentation-translations.git of version Ren'Py 6.17 (when I found it) by @fk1995 is a good project.
+As a beginner of GitHub, I'm learning how to do joint work.
